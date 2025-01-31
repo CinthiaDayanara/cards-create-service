@@ -1,7 +1,7 @@
 # 🚀 Microservice `cards-create-service`
 
 ## 📌 Description
-This microservice allows **creating cards** in a task management system with an optional **expiration date (`due_date`)**. 
+This microservice allows **creating cards** in a task management system with an optional **expiration date  
 It follows the **KISS principle** for a simple and direct REST API design.
 
 ## 🛠️ Technologies
