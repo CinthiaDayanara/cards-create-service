@@ -8,7 +8,7 @@ It follows the **KISS principle** for a simple and direct REST API design.
 - Node.js
 - Express.js
 - PostgreSQL (AWS RDS)
-- Sequelize (ORM)
+- Sequelize 
 - Docker
 
 ## 📂 Project Structure
